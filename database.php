@@ -1,7 +1,7 @@
 <?php
 // --- Hosting Database Credentials ---
 $host = 'mysql.bsg-ims.online'; // e.g., 'mysql.yourdomain.com' or '127.0.0.1' - Check your host!
-$dbname = 'bsg_ims';   // e.g., 'yourhostinguser_bsg_ims'
+$dbname = 'bsgifkno_bsg_ims';   // e.g., 'yourhostinguser_bsg_ims'
 $username = 'root'; // e.g., 'yourhostinguser_dbuser'
 $password = 'Francorafael'; // The strong password you created
 
